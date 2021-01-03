@@ -1,0 +1,7 @@
+!img-r /files/img/doneagle.jpg
+Race: Human
+Class: Druid
+Height: 5'10"
+Weight: 175 lbs
+Hair: Brown
+Age: 21 years

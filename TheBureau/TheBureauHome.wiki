@@ -1,0 +1,51 @@
+!img-r /files/bureau.png
+UnderDarkNpcs
+
+Party
+
+ * ToabTimbers
+ * SklarBiceraton
+ * CoyTheThird
+ * DremorhaIsheraeleth
+ * TerloK
+ * DonEagleCrookhaven
+
+
+Recaps:
+
+ * Session2020Dec27
+
+Cities:
+
+ * Underdark
+   * GracklstughCity
+   * NeverlightGrove
+   * BlingdingStone
+   * WeepingShrine
+   * VekinvelveCity
+ * Overtop
+   * Fairnaught
+   * Selia
+   * VasselheiM
+   * GauntlGrym
+
+Objectives:
+
+ * Find out why DemonLords are appearing and causing havoc in the underdark.  Prevent them from destroying the world. 
+   * Go to GravenHollow to find out more about this.
+ * Find GazrimDuloch in MantolDereth. [COMPLETE]
+ * Find SladisVadir and get him back safely to GauntlGrym and the EmeraldEnclave for MaristA. [COMPLETE]
+
+Notable Organizations:
+
+ * EmeraldEnclave
+ * LordsAlliance
+ * OrderOfTheGauntlet
+ * SocietyOfBrilliance
+ * VaruntoTheBeholder
+ * ZogthaN - Everlon King… devil that wants to tear Sklaar apart.  Why?
+
+Links:
+
+ * [[Roll20 Campaign][https://app.roll20.net/campaigns/details/4284458/introductions]]
+ * [[Google Meet][https://meet.google.com/rxv-mcmt-mny]]

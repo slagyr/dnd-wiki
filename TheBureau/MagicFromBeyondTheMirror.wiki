@@ -1,0 +1,33 @@
+5th level: 
+Bigby’s hand, 
+cloudkill, 
+hold monster, 
+legend lore, 
+passwall, 
+Rary’s telepathic bond, 
+telekinesis, 
+wall of stone
+6th level: 
+chain lightning, 
+disintegrate, 
+Drawmij’s instant summons, 
+eyebite, 
+flesh to stone, 
+Otto’s irresistible dance, 
+true seeing
+7th level: 
+forcecage, 
+mirage arcana, 
+Mordenkainen’s magnificent mansion, 
+prismatic spray, 
+reverse gravity, 
+teleport
+8th level: 
+antimagic field, 
+feeblemind, 
+incendiary cloud, 
+maze, 
+power word stun, 
+telepathy
+
+!contents -R2 -g -p -f -h

@@ -1,0 +1,60 @@
+!img-r /files/dragonheist.jpg
+!4 TODO List
+ * Find StoneOfGolorr
+ * Remove DoppelGangers as a threat to balance in the city (EmeraldEnclave)
+ * Identify the DoppelGangers and determine which ones trustworthy and could maybe join the HarperS
+
+!4 Recaps
+ * Dec20Session2020
+ * Dec06Session2020
+ * Nov22Session2020
+ * TadghPoemChapter11
+ * TadghPoemChapter10
+ * TadghPoemChapter9
+ * TadghPoemChapter8
+ * TadhgPoemChapter7
+ * TadhgPoemChapter6
+ * TadhgPoemChapter5
+ * TadhgPoemChapter4
+ * TadhgPoemChapter3
+ * TadhgPoemChapter2
+ * TadhgPoemChapter1
+
+!4 Party
+ * AiaX - moon elf monk
+ * CatrinE - human sorcerer  - speaks with southern accent - from Mirabar
+ * TadhG - Dwarf Fighter/Bard - from a small village in The North / The Vast
+ * AegeantacH (QuisS) - Bard
+ * BrunO - Rogue
+
+!4 WaterDeep Factions/Organizations
+ * CityWatch
+ * EmeraldEnclave
+ * ForceGrey
+ * HarperS
+ * HouseOfInspiredHands
+ * TrollSkullManor
+ * XanatharGuild
+ * ZhentariM
+
+!4 Story Threads
+ * ExplosionOutsideManor
+
+!4 Points of Interest
+ * YawningPortal
+ * WaterdeepWards
+
+!4 People of Interest
+ * VajraSafar - BlackStaff - Arch Mage of WaterDeep
+ * RanierEverember - kidnapped in first session, because they thought he had stone.
+ * FloonBlagmire - whom we rescued
+ * MelannorFellbranch - Groundskeeper at Phaulkonmere and Waterdeep Director for the Emerald Enclave, Druid
+ * JerythPhaulkon - Divine Champion of Mielikki, Demi-God and Waterdeep Director for the Emerald Enclave, Ranger/Demi-God
+ * VolO - Gave us TrollSkullManor
+ * IstridHorn - met in CityOfTheDead and she asked us to abed her.  She's a ZhentariM.
+
+!4 Links
+ * [[Roll20 Campaign][https://app.roll20.net/campaigns/details/7938311/treasure-hunt]]
+ * [[Google Meet][https://meet.google.com/rxv-mcmt-mny]]
+ * [[Map of Waterdeep][https://www.aidedd.org/atlas/index.php?map=W&l=1]]
+ * [[Map of Faerun][https://loremaps.azurewebsites.net/Maps/Faerun]]

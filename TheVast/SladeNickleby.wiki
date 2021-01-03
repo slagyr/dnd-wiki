@@ -1,0 +1,7 @@
+!img-r files/img/slade2.jpg 
+
+Race: Human
+Height: 5'10"
+Weight: 160 lbs
+Age: 17 years
+Hair: Brown

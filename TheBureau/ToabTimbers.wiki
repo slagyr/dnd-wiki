@@ -1,0 +1,20 @@
+!img-r /files/img/toab.jpg
+
+A weary, somewhat sad looking gnome, except when intrigued by magic, tinkering, or mischief when he lights up with enthusiasm.
+
+Toab wears a bland tan robe and pointy hat.
+
+Often seen with mug of ale, held by mage hand.
+
+Currently cursed by a candy that turned his skin blue.
+
+Spell books found:
+ * UnderlandMagicSpellbook
+ * MagicFromBeyondTheMirror
+ 
+ 
+After defeating LordRoaringhorn in a game of chess, he rewards Toab with the amulet that controls the ShieldGuardian.
+
+Items to sell:
+ * elvish chainmail 
+ 

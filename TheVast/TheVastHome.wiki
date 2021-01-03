@@ -1,0 +1,26 @@
+!img-r -w 500 https://s3.amazonaws.com/files.d20.io/images/183564851/VGStAjIiiqqxpofGAIZJpg/max.jpg?1607301892955
+!4 Party
+ * MerrickGraybeard
+ * SladeNickleby
+ * PilotThirteen 
+ * MorgaN
+ * FiodH
+ * JocopoToto
+
+!4 Recaps
+ * Session2020Dec13
+
+!4 People
+ * DrBazzgor
+ 
+!4 Kingdoms/Nations
+ * HylanRepublic
+ * BrotherhoodOfTechnocrats
+ * OldKron
+ * SurlaN
+ * TheFaerieCourt
+ * TheHegemony
+
+!4 Links
+ * [[Roll20 Campaign][https://app.roll20.net/campaigns/details/9254766/the-vast]]
+ * [[Google Meet][https://meet.google.com/rxv-mcmt-mny]]

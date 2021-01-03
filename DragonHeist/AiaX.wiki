@@ -1,0 +1,11 @@
+!img-r /files/img/aiax.jpg
+
+Race: Moon Elf
+Class: Monk
+Age: 45 years
+Height: 5'6"
+Weight: 130 lbs
+Hair: Black
+Eyes: Blue, gold flecks
+
+Member of the EmeraldEnclave.

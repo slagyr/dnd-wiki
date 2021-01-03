@@ -1,0 +1,42 @@
+1st level: 
+ * Alarm, 
+ * color spray, 
+ * comprehend languages, 
+ * find familiar, 
+ * grease, 
+ * identify, 
+ * jump, 
+ * Tasha’s hideous laughter, 
+ * unseen servant
+ 
+2nd level: 
+ * alter self, 
+ * blur, 
+ * crown of madness, 
+ * gust of wind, 
+ * invisibility, 
+ * knock, 
+ * magic weapon, 
+ * phantasmal force, 
+ * spider climb
+ 
+3rd level: 
+ * blink, 
+ * dispel magic, 
+ * gaseous form, 
+ * major image, 
+ * protection from energy, 
+ * slow, 
+ * tongues, 
+ * water breathing
+ 
+4th level: 
+ * blight, 
+ * fabricate, 
+ * fire shield, 
+ * hallucinatory terrain,
+ * locate creature, 
+ * phantasmal killer, 
+ * polymorph, 
+ * stoneskin
+ 

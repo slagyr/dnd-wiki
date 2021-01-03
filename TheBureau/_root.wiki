@@ -1,0 +1,3 @@
+Root page for The Bureau.
+
+!include .TheBureau.TheBureauHome
