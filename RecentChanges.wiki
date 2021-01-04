@@ -1,3 +1,13 @@
+|DragonHeist.Jan03Session2021||21:54:57 Sun, Jan 03, 2021|
+|DragonHeist.RanaerNeveremeber||20:55:18 Sun, Jan 03, 2021|
+|DragonHeist.LordNeverember||20:42:41 Sun, Jan 03, 2021|
+|DragonHeist.StoneOfGolorr||20:39:44 Sun, Jan 03, 2021|
+|DragonHeist.DoppelGanger||20:36:04 Sun, Jan 03, 2021|
+|DragonHeist.DoppelGangers||20:34:19 Sun, Jan 03, 2021|
+|DragonHeist.DragonHeistHome||20:33:45 Sun, Jan 03, 2021|
+|DragonHeist.SnarF||20:22:55 Sun, Jan 03, 2021|
+|DragonHeist.CatrinE||20:21:25 Sun, Jan 03, 2021|
+|DragonHeist.TadghPoemChapter11|monty|18:56:04 Sun, Jan 03, 2021|
 |TheBureau.TheBureauHome||14:24:15 Sun, Jan 03, 2021|
 |FrontPage||14:23:59 Sun, Jan 03, 2021|
 |DragonHeist.HarperS||19:53:50 Fri, Jan 01, 2021|
@@ -12,7 +22,6 @@
 |TheBureau.Session2020Dec27||20:26:47 Mon, Dec 28, 2020|
 |TheBureau.SladisVadir||20:23:17 Mon, Dec 28, 2020|
 |TheBureau||12:40:10 Mon, Dec 28, 2020|
-|DragonHeist.DoppelGanger||11:05:30 Mon, Dec 28, 2020|
 |DragonHeist.DenddritcH||08:24:34 Mon, Dec 28, 2020|
 |DragonHeist.AmbroseEverdawn||03:35:38 Mon, Dec 28, 2020|
 |DragonHeist.VolothampGeddarm||03:13:02 Mon, Dec 28, 2020|
@@ -33,7 +42,6 @@
 |DragonHeist.TadghPoemChapter10||22:10:02 Sun, Dec 20, 2020|
 |DragonHeist.TadghPoemChapter9||22:07:27 Sun, Dec 20, 2020|
 |DragonHeist.TadghPoemChapter8||22:07:03 Sun, Dec 20, 2020|
-|DragonHeist.DragonHeistHome||22:06:27 Sun, Dec 20, 2020|
 |TheBureau.LordEravlenHaund||22:01:03 Sun, Dec 20, 2020|
 |DragonHeist.GeofF||21:50:11 Sun, Dec 20, 2020|
 |DragonHeist.TwistedNipple||21:49:46 Sun, Dec 20, 2020|
@@ -41,7 +49,6 @@
 |DragonHeist.CastleWard||21:35:50 Sun, Dec 20, 2020|
 |DragonHeist.DernaN||21:35:11 Sun, Dec 20, 2020|
 |DragonHeist.YawningPortal||21:34:50 Sun, Dec 20, 2020|
-|DragonHeist.StoneOfGolorr||20:51:43 Sun, Dec 20, 2020|
 |DragonHeist.LasseR||19:45:47 Sun, Dec 20, 2020|
 |TheVast.SladeNickleby||20:50:43 Sat, Dec 19, 2020|
 |DragonHeist.TadhgPoemChapter10||18:31:28 Sat, Dec 19, 2020|
@@ -91,10 +98,3 @@
 |DragonHeist.MatrimMarick||20:14:23 Sun, Nov 22, 2020|
 |DragonHeist.MirT||20:13:44 Sun, Nov 22, 2020|
 |DragonHeist.BrunO||20:09:28 Sun, Nov 22, 2020|
-|DragonHeist.ZhentariM||11:30:40 Sat, Nov 21, 2020|
-|DragonHeist.XanatharGuild||11:30:24 Sat, Nov 21, 2020|
-|DragonHeist.TrollSkullManor||22:20:30 Fri, Nov 20, 2020|
-|TheBureau.DonEagleCrookhaven||22:15:04 Fri, Nov 20, 2020|
-|DragonHeist.VajraSafar||22:12:03 Fri, Nov 20, 2020|
-|DragonHeist.AiaX||21:52:59 Fri, Nov 20, 2020|
-|DragonHeist.GreyHands||11:09:43 Fri, Nov 20, 2020|
