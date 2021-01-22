@@ -1,7 +1,7 @@
 !img-r /files/img/aiax.jpg
 
 Race: Moon Elf
-Class: Monk
+Class: Kensei Monk
 Age: 45 years
 Height: 5'6"
 Weight: 130 lbs

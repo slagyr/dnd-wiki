@@ -1,1 +1,1 @@
-!img-r /files/img/sklar.jpg
+!img-r http://minecraft.cleancoders.com/files/img/sklar.jpg

@@ -1,3 +1,6 @@
+---
+LastModifyingUser: monty
+---
 !img-r /files/dragonheist.jpg
 !4 TODO List
  * Find StoneOfGolorr
@@ -5,14 +8,16 @@
  * Identify the DoppelGangers and determine which ones trustworthy and could maybe join the HarperS
 
 !4 Recaps
+ * Jan17Session2021
  * Jan03Session2021
  * Dec20Session2020
  * Dec06Session2020
  * Nov22Session2020
- * TadghPoemChapter11
- * TadghPoemChapter10
- * TadghPoemChapter9
- * TadghPoemChapter8
+ * TadhgPoemChapter12
+ * TadhgPoemChapter11
+ * TadhgPoemChapter10
+ * TadhgPoemChapter9
+ * TadhgPoemChapter8
  * TadhgPoemChapter7
  * TadhgPoemChapter6
  * TadhgPoemChapter5
@@ -26,7 +31,7 @@
  * CatrinE - human sorcerer  - speaks with southern accent - from Mirabar
  * TadhG - Dwarf Fighter/Bard - from a small village in The North / The Vast
  * AegeantacH (QuisS) - Bard
- * BrunO - Rogue
+ * BrundellE - Rogue
 
 !4 WaterDeep Factions/Organizations
  * CityWatch

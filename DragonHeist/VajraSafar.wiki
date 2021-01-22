@@ -1,2 +1,3 @@
-!img-r https://static.wikia.nocookie.net/forgottenrealms/images/f/f9/Vajra-5e.png
+!img-r https://static.wikia.nocookie.net/forgottenrealms/images/f/f9/Vajra-5e.png
+!contents -R2 -g -p -f -h
 Wizard. Resides in BlackstaffTower and carries the fabled BlackStaff.  Leads the GrayHands.

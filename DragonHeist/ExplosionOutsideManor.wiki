@@ -1,6 +1,5 @@
+
 BarnibusBlastwind - investigator
 DelacaR - gnome who was target of attack
 StoneOfGolore - from XanatharLair
-LordDagaltNeverember - his stone (MacGuffin), key to finding stash of gold
-
-MacGuffin is the StoneOfGolore...which tells you how to find half a million gp
+LordDagaltNeverember - his stone, key to finding stash of gold

@@ -1,4 +1,9 @@
+---
+LastModifyingUser: monty
+---
 !img-r https://i.ebayimg.com/images/g/b40AAOSwQmJc0xaz/s-l300.jpg
+
+AKA: BrundellE
 
 Halfling Rogue
 

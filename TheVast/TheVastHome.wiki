@@ -1,4 +1,4 @@
-!img-r -w 500 https://s3.amazonaws.com/files.d20.io/images/183564851/VGStAjIiiqqxpofGAIZJpg/max.jpg?1607301892955
+!img-r https://s3.amazonaws.com/files.d20.io/images/183564851/VGStAjIiiqqxpofGAIZJpg/max.jpg?1607301892955
 !4 Party
  * MerrickGraybeard
  * SladeNickleby

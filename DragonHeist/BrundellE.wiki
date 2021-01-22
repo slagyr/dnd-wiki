@@ -1,0 +1,23 @@
+---
+LastModifyingUser: monty
+---
+!img-r https://s3.amazonaws.com/files.d20.io/images/149514392/TCvDcCbptnNo5-nKdb_dVg/med.png?1594421457
+
+AKA: BrunO
+
+Halfling Rogue
+
+She's not so shy and tends to flaunt her femenine wiles, letting her long curley hair flow and wearing tight clothes.
+
+Age: 15
+Height: 3'
+Weight: 35 lbs
+Eyes: Blue
+Skin: fair - as far as one can tell, it's mostly covered.
+Hair: black
+
+Member of the HarperS.
+
+Magic Items:
+  * AlchemyJug
+  

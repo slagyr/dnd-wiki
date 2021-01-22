@@ -13,8 +13,4 @@ Spell books found:
  * MagicFromBeyondTheMirror
  
  
-After defeating LordRoaringhorn in a game of chess, he rewards Toab with the amulet that controls the ShieldGuardian.
-
-Items to sell:
- * elvish chainmail 
- 
+After defeating LordRoaringhorn in a game of chess, he rewards Toab with the ShieldGuardian

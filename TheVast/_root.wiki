@@ -1,2 +1,1 @@
 !include .TheVast.TheVastHome
-!contents -R2 -g -p -f -h

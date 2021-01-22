@@ -1,8 +1,8 @@
 !1 Welcome to '''The Dungeons & Dragons Wiki'''!
 
-| !1 [[The Bureau][.TheBureau.TheBureauHome]]| [[!img -w 500 /files/bureau.png][.TheBureau.TheBureauHome]] | 
-| !1 [[Dragon Heist][.DragonHeist.DragonHeistHome]]| [[!img -w 500 /files/dragonheist.jpg][.DragonHeist.DragonHeistHome]] |
-| !1 [[The Vast][.TheVast.TheVastHome]] | [[!img -w 500 https://s3.amazonaws.com/files.d20.io/images/183564851/VGStAjIiiqqxpofGAIZJpg/max.jpg?1607301892955][.TheVast.TheVastHome]] |
+| !1 [[The Bureau][.TheBureau.TheBureauHome]]| [[!img /files/bureau.png][.TheBureau.TheBureauHome]] | 
+| !1 [[Dragon Heist][.DragonHeist.DragonHeistHome]]| [[!img /files/dragonheist.jpg][.DragonHeist.DragonHeistHome]] |
+| !1 [[The Vast][.TheVast.TheVastHome]] | [[!img https://s3.amazonaws.com/files.d20.io/images/183564851/VGStAjIiiqqxpofGAIZJpg/max.jpg?1607301892955][.TheVast.TheVastHome]] |
 
 To add your first "page", click the [[Edit][.FrontPage?edit]] button and add a [[!-WikiWord-!][.FitNesse.UserGuide.FitNesseWiki.WikiWord]] to the page.
 
