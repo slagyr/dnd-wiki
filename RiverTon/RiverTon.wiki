@@ -1,0 +1,15 @@
+---
+LastModifyingUser: monty
+---
+RiverTon - Capitol city of RiverTania in the center of RiverTania kingdom
+
+!2 People
+ * KingEdward - KingOfRiverton.  
+ * PrinceEdwin - Son of KingEdward
+ * BashaBasha - wizened wizard
+ * MardreD - Constable
+
+!2 Shops
+ * CrimsonCantrip - Magic shop
+ * DrowsyTortoise - The Inn 
+ * SmithyNowar - Black smith

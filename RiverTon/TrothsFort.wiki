@@ -1,0 +1,12 @@
+---
+LastModifyingUser: monty
+---
+TrotH - Hobgoblin Warlord - Brother of GrotH but wishes harm to JelivA, who killed his wife and children.  He stole egg from PrinceEdwin.  Hires Goblins, Kobolds, and Ogre, orcs, giants, bugbears
+LetterFromGroth - Item in roll 20
+Chest in house: contains: 50 gp, 120 silver, 42 copper.
+
+GlabbaGool - sentient gelatinous cube.  Had wand inside: Wand of Web (uncommon, dmg 212)
+Treasure to be found in well:
+Treasure:  600 cp, 4000 sp, 2200 gp, 100 pp, Small Silver Mirror (25 gp), Ceramic Figurine (of a Draconic Goddess) (25 gp), Painted Glass Miniature (of a Tree) (25 gp), Pearl of Power (uncommon, dmg 184)
+HalfDragonAmulet - Should be recognizable by ZealoT.  Legend tells of ZealoT the Great, ancient king of dragon born, unparalleled in battle.  Tales would tell how he could melt rock with his breath.  It is found folded in a piece of paper on which is written “CrescentForest”.`
+“Gargoyle” Figuring - (Gorilla with wings and horns) When touched by RekluS he passes out.  Upon awakening, his eye glow orange and he says “Who disturbs my slumber?” - it is the voice of FrazUrbLuu - he pretends to be Bahamut - god of dragons.  If queued up, he will reveal a guarded cavern in the sewers under CerdulO where he will bestow a gift upon Reklus.  The figuring eyes will glow when pointed in the right direction.

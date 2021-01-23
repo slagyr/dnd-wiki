@@ -1,0 +1,8 @@
+---
+LastModifyingUser: monty
+---
+- woodland elf - middle-aged - brown hair - brown eyes - red robe - soft voice, thoughts constantly drawn toward philosophy of quality and beauty.
+
+voice: Chong
+
+Clearly an aged and powerful magical person.
