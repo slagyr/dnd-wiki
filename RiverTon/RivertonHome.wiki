@@ -2,6 +2,12 @@
 LastModifyingUser: monty
 ---
 !img-r /files/riverton/riverton.jpg
+!4 TODO List
+ * blah
+ 
+!4 Recaps
+ * blah
+
 !4 Party
  * LeoBouldersnap
  * FinnDragonmane
@@ -22,22 +28,12 @@ LastModifyingUser: monty
  * BrothaM
  * JelivasRoost
  * BusaN
- * OnditaN
- * CerdulO
  
 !4 People of Interest
  * blah
 
 !4 Links
  * [[Roll20 Campaign][https://app.roll20.net/campaigns/details/9254766]]
- 
-!4 Recaps/Missions
- * Jan23Dungeon2021
- * Sept26Recap2020
- * Sept20Recap2020
- * Aug15Recap2020
- * June28Recap2020
- * June05Recap2020
 
 
 !contents -R2 -g -p -f -h
