@@ -4,7 +4,3 @@ LastModifyingUser: monty
 !img-r /files/riverton/jeliva.jpg
 
 Ruling evil force over RiverTania
-
-- Adult Blue Dragon Mother.  Her territory covers RiverTon among a larger area.  She harasses all in this area.
-
-Home: JelivasRoost
