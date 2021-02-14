@@ -5,6 +5,7 @@
  * Identify the DoppelGangers and determine which ones trustworthy and could maybe join the HarperS
 
 !4 Recaps
+ * Feb13Session2021
  * Jan31Session2021
  * Jan17Session2021
  * Jan03Session2021
@@ -50,7 +51,7 @@
 
 !4 People of Interest
  * VajraSafar - BlackStaff - Arch Mage of WaterDeep
- * RanierEverember - kidnapped in first session, because they thought he had stone.
+ * RanaerNeveremeber - kidnapped in first session, because they thought he had stone.
  * FloonBlagmire - whom we rescued
  * MelannorFellbranch - Groundskeeper at Phaulkonmere and Waterdeep Director for the Emerald Enclave, Druid
  * JerythPhaulkon - Divine Champion of Mielikki, Demi-God and Waterdeep Director for the Emerald Enclave, Ranger/Demi-God

@@ -10,9 +10,9 @@ Party
  * TerloK
  * DonEagleCrookhaven
 
-
 Recaps:
 
+ * Session2021Feb7
  * Session2021Jan24
  * Session2021Jan10
  * Session2020Dec27
@@ -33,8 +33,10 @@ Cities:
 
 Objectives:
 
- * Find out why DemonLords are appearing and causing havoc in the underdark.  Prevent them from destroying the world. 
-   * Go to GravenHollow to find out more about this.
+ * Gather spell components for VizeranDevir and meet him at his tower.  Summon all demon lords to VekinvelveCity.
+ * Prevent ArN from destroying the plane.
+ * Find out why DemonLords are appearing and causing havoc in the underdark.  Prevent them from destroying the world.
+   * Go to GravenHollow to find out more about this.
  * Find GazrimDuloch in MantolDereth. [COMPLETE]
  * Find SladisVadir and get him back safely to GauntlGrym and the EmeraldEnclave for MaristA. [COMPLETE]
 
