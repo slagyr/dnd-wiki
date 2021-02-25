@@ -1,1 +1,3 @@
 !img-r http://minecraft.cleancoders.com/files/img/sklar.jpg
+
+AKA: SklaR

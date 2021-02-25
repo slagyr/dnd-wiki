@@ -1,3 +1,12 @@
+|TheBureau.SklaR||22:23:19 Sun, Feb 21, 2021|
+|TheBureau.SklarBiceraton||22:23:13 Sun, Feb 21, 2021|
+|TheBureau.DonEagle||22:22:41 Sun, Feb 21, 2021|
+|TheBureau.DonEagleCrookhaven||22:22:35 Sun, Feb 21, 2021|
+|TheBureau.Session2021Feb21||22:21:25 Sun, Feb 21, 2021|
+|TheBureau.KarazikaR||22:19:17 Sun, Feb 21, 2021|
+|TheBureau.TheBureauHome||18:38:38 Sun, Feb 21, 2021|
+|TheBureau.Session2021Feb7||22:23:49 Thu, Feb 18, 2021|
+|DragonHeist.AmbroseEverdawn||21:55:43 Thu, Feb 18, 2021|
 |DragonHeist.Feb13Session2021|monty|22:03:02 Sat, Feb 13, 2021|
 |DragonHeist.IstridHorn|monty|19:41:11 Sat, Feb 13, 2021|
 |DragonHeist.ZhentariM|monty|19:39:31 Sat, Feb 13, 2021|
@@ -6,10 +15,8 @@
 |DragonHeist.JerethFalcon||19:34:14 Sat, Feb 13, 2021|
 |DragonHeist.MelanoR||19:33:38 Sat, Feb 13, 2021|
 |DragonHeist.EmeraldEnclave||19:33:07 Sat, Feb 13, 2021|
-|TheBureau.Session2021Feb7||16:54:09 Sat, Feb 13, 2021|
 |DragonHeist.Jan03Session2021||16:03:51 Fri, Feb 12, 2021|
 |TheBureau.PurpleWormPoison||21:49:46 Sun, Feb 07, 2021|
-|TheBureau.TheBureauHome||19:16:29 Sun, Feb 07, 2021|
 |TheBureau.PeebleS||19:16:05 Sun, Feb 07, 2021|
 |TheBureau.Session2021Jan24||18:34:22 Sun, Feb 07, 2021|
 |RiverTon.JobBoard|monty|16:59:10 Sun, Feb 07, 2021|
@@ -91,10 +98,3 @@
 |RiverTon.TrotH|monty|18:10:10 Fri, Jan 22, 2021|
 |RiverTon.WyatT|monty|18:07:29 Fri, Jan 22, 2021|
 |RiverTon.PrinceEdwin|monty|18:06:14 Fri, Jan 22, 2021|
-|RiverTon.TymantheR|monty|18:01:55 Fri, Jan 22, 2021|
-|RiverTon.FrazUrbLuu|monty|17:56:52 Fri, Jan 22, 2021|
-|RiverTon.ElanA|monty|17:54:47 Fri, Jan 22, 2021|
-|RiverTon.JelevA|monty|17:54:19 Fri, Jan 22, 2021|
-|RiverTon.DoradO|monty|17:52:31 Fri, Jan 22, 2021|
-|RiverTon.LauciaN|monty|17:50:34 Fri, Jan 22, 2021|
-|RiverTon.FinnDragonmane|monty|17:49:17 Fri, Jan 22, 2021|
