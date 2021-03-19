@@ -1,11 +1,12 @@
 ---
 LastModifyingUser: monty
 ---
+Rumors claim the forest is haunted.
+In center of forest there is a lair of a powerful creature that controls undead
+
 BreeZora - Dust Lich
 
-Her lair is in the center of CrescentForest
 
-{{{
 	Breezora, Breezora
 	Ye en-ter-ing Crescent Forest, Beware! Beware!
 	Tales of missing folk who go, You’ll Hear! You’ll Hear!
@@ -15,7 +16,6 @@ Her lair is in the center of CrescentForest
 	To the ground
 	They’re alive
 	But dead.
-    
 	Green eyes they glow in a cloud of dust, They see! They see!
 	Fools that gaze upon her eyes, They flee!  They Flee.
 	For any shape her cloud may take,
@@ -25,4 +25,3 @@ Her lair is in the center of CrescentForest
 	And wake,
 	And become 
 	One of them.
-}}}
