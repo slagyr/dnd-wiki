@@ -15,13 +15,6 @@ LastModifyingUser: monty
  * In another room, 4 suits of dwarven armor and runes saying: "A secret never before told with part Dulithoin's lips" (Patron of shield swarves, mining, keeper of secrets)
  * BrunO reveals his secret and presents himself as the girl BrundellE.
  * Below we found treasure! Guarded by gold dragon! Treasure is granted to us and dragon leaves.  We don't know how to get treasure out. ¯\_(ツ)_/¯
- * Explore last room across bridge.  Anvil, hammer in fresco. Inscription says "Let hearts be lifted and battles be won!"
- * Found secret room with: 
-   * This room holds five copper urns (worth 25 gp each). 
-   * Urn 1 contains five tourmalines (worth 100 gp each) mixed in with 200 cp. 
-   * Urn 2 contains ten ordinary gold rings (worth 25 gp each) and 650 sp. 
-   * Urn 3 is piled high with 250 gp. 
-   * Urn 4 holds 33 blue quartz gemstones (worth 10 gp each). 
-   * Urn 5 holds a 9-inch-tall silver statuette of a dwarf priest of Moradin with amethyst eyes (worth 250 gp and weighing 10 pounds).
-
+ * Explore last room across bridge.  Anvil, hammer in fresco.
+ 
  

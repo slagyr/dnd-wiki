@@ -2,6 +2,6 @@
 
 Race: Human
 Height: 5'10"
-Weight: 160 lbs
+Weight: 150 lbs
 Age: 17 years
 Hair: Brown

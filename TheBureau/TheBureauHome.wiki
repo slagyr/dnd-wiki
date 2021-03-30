@@ -1,3 +1,6 @@
+---
+LastModifyingUser: monty
+---
 !img-r /files/bureau.png
 UnderDarkNpcs
 
@@ -12,6 +15,7 @@ Party
 
 Recaps:
 
+ * Session2021Mar21
  * Session2021Mar7
  * Session2021Feb21
  * Session2021Feb7
@@ -28,7 +32,7 @@ Cities:
    * WeepingShrine
    * VekinvelveCity
  * Overtop
-   * Fairnaught
+   * FairnaughT
    * Selia
    * VasselheiM
    * GauntlGrym
@@ -50,6 +54,9 @@ Notable Organizations:
  * SocietyOfBrilliance
  * VaruntoTheBeholder
  * ZogthaN - Everlon King… devil that wants to tear Sklaar apart.  Why?
+ 
+People of Interest
+ * MasterAmauro
 
 Links:
 
