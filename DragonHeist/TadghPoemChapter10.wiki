@@ -1,2 +1,1 @@
 !contents -R2 -g -p -f -h
-!img files/Chapter10-Partyof5Nearly4.jpg
