@@ -1,17 +1,19 @@
-|DragonHeist.Aug29Session2021||19:07:06 Sun, Aug 29, 2021|
+|DragonHeist.Aug15Session2021||09:13:23 Mon, Aug 30, 2021|
+|RiverTon.RekluS|monty|08:57:11 Mon, Aug 30, 2021|
+|DragonHeist.VolO||23:12:05 Sun, Aug 29, 2021|
+|DragonHeist.Aug29Session2021||22:06:53 Sun, Aug 29, 2021|
+|DragonHeist.BrunO|monty|19:52:05 Sun, Aug 29, 2021|
 |DragonHeist.DragonHeistHome||19:06:39 Sun, Aug 29, 2021|
 |TheBureau.TheBureauHome||19:06:15 Sun, Aug 29, 2021|
 |RiverTon.LetterFromGroth|monty|15:32:05 Sun, Aug 29, 2021|
 |RiverTon.QueenOpal||07:46:13 Sun, Aug 29, 2021|
 |RiverTon.WaynE|monty|03:29:05 Sun, Aug 29, 2021|
 |DragonHeist.EmeraldEnclave||09:30:11 Sat, Aug 28, 2021|
-|RiverTon.RekluS|monty|09:03:44 Sat, Aug 28, 2021|
 |DragonHeist||07:23:48 Sat, Aug 28, 2021|
 |DragonHeist.May23Session2021||05:26:41 Sat, Aug 28, 2021|
 |TheBureau.Session2021Jun13||04:17:15 Sat, Aug 28, 2021|
 |TheVast.OldKron||23:42:09 Thu, Aug 26, 2021|
 |TheBureau.Session2020Dec27||21:27:50 Thu, Aug 26, 2021|
-|DragonHeist.VolO||05:11:39 Thu, Aug 26, 2021|
 |DragonHeist.XanatharGuild||23:55:52 Wed, Aug 25, 2021|
 |DragonHeist.StoneOfGolorr||09:58:42 Wed, Aug 25, 2021|
 |DragonHeist.HouseOfInspiredHands||22:57:19 Mon, Aug 23, 2021|
@@ -63,7 +65,6 @@
 |TheVast.Session2020Dec13||18:17:34 Mon, Aug 16, 2021|
 |RiverTon.BreeZora|monty|15:54:35 Mon, Aug 16, 2021|
 |RiverTon.RiverTon|monty|12:49:35 Mon, Aug 16, 2021|
-|DragonHeist.Aug15Session2021||08:17:11 Mon, Aug 16, 2021|
 |DragonHeist.IstridHorn||07:23:35 Mon, Aug 16, 2021|
 |TheBureau.SirLanniverStrayl||05:08:08 Mon, Aug 16, 2021|
 |DragonHeist.TadhgPeomChapter7||19:59:35 Sun, Aug 15, 2021|
@@ -97,4 +98,3 @@
 |TheBureau.LordEravlenHaund||01:41:05 Fri, Jul 30, 2021|
 |DragonHeist.NimbleWright||19:01:49 Wed, Jul 28, 2021|
 |TheBureau.UnderDarkNpcs||14:09:58 Wed, Jul 28, 2021|
-|TheBureau.MoristaMalkin||21:12:28 Sun, Jul 25, 2021|
