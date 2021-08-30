@@ -12,6 +12,7 @@ LastModifyingUser: monty
  	1 Skull portal
  	2 Star gate
  	3 HallisteR's tower
+  
  * Obalisk:  I cast my eye into the future and see in yours a perilous descent. South of here, beyond a secret passage, waits the Two-Headed King. Look to his left. There you will see the path you are destined to take
  * Massive battle with gobblins, bugbears, and ettin.  HallethGok proves pretty tough.
  * Find forge with 10' hammer and engraving of fire/water

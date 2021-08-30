@@ -1,4 +1,4 @@
-!img-r /files/img/toab.jpg
+!img-r http://minecraft.cleancoders.com/files/img/toab.jpg
 
 A weary, somewhat sad looking gnome, except when intrigued by magic, tinkering, or mischief when he lights up with enthusiasm.
 

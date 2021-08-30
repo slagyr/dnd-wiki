@@ -1,4 +1,2 @@
- * starts with fighting eel called by lake lady, Dosizot and Choc
- * killed them both handily
- 
- 
+ * starts with fighting eel called by lake lady
+ * 

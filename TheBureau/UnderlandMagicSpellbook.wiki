@@ -39,4 +39,3 @@
  * phantasmal killer, 
  * polymorph, 
  * stoneskin
- 
