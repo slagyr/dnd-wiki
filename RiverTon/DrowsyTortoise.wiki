@@ -4,4 +4,4 @@ LastModifyingUser: monty
 The Inn where the SusageSlammer stay
 
 WendY - barkeep
-WallacE - owner
+WallacE - owner, WendY’s father, stout, gruff. 

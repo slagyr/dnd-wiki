@@ -19,5 +19,6 @@ Hair: black
 Member of the HarperS.
 
 Magic Items:
+
   * AlchemyJug
   

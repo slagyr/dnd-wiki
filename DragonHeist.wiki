@@ -1,4 +1,4 @@
+'''Don't edit this page directly.  Click the Edit button below for the DragonHeistHome page.'''
 
 !include .DragonHeist.DragonHeistHome
-
 !contents -R2 -g -p -f -h
