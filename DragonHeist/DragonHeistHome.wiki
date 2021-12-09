@@ -1,3 +1,6 @@
+---
+LastModifyingUser: monty
+---
 !img-r /files/dragonheist.jpg
 !4 TODO List
  * Find StoneOfGolorr
@@ -5,6 +8,8 @@
  * Identify the DoppelGangers and determine which ones trustworthy and could maybe join the HarperS
 
 !4 Recaps
+ * Nov28Session2021
+ * Nov07Session2021
  * Oct24Session2021
  * Oct10Session2021
  * Sep26Session2021
