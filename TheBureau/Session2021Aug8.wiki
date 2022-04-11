@@ -6,6 +6,5 @@
  * We defeat Juiblex!!!
  * 6,666 xp each
  * Sovereign thanks us.
- * We used the adamantine fortress for defense and it took 74 HP of damage on the wall with the door
- * SklarBiceraton's max hit points were reduced, but DonEagle cast Greater Restoration to restore them
- * Got a long rest (finally)
+ 
+ 

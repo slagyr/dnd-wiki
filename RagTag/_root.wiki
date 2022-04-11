@@ -1,6 +1,3 @@
----
-LastModifyingUser: monty
----
 !3 Party
  * BoBo
  * BarlitonCanks
@@ -8,3 +5,4 @@ LastModifyingUser: monty
 
 !3 Recaps
  * Session2021Oct17
+ * Session2021Dec19

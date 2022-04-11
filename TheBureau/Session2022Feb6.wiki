@@ -1,0 +1,3 @@
+ * MEGA-BATTLE!!!
+ * DremoraH is poisoned, takes 11 damage at the start of every turn. Makes a constitution check after every turn to cancel the effect.
+ * GronT got charmed, but no longer.  Cured by Shushaar.

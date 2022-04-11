@@ -1,1 +1,1 @@
-!img /files/TadhgChapter5Poem.jpg
+!img -w 600 /files/TadhgChapter5Poem.jpg

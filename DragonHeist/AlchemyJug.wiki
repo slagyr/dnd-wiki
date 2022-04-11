@@ -10,7 +10,7 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 
 |Liquid      |Max Amount|
 |Acid        |8 ounces  |
-|Basic poison|1/2 ounce |
+|BasicPoison |1/2 ounce |
 |Beer        |4 gallons |
 |Honey       |1 gallon  |
 |Mayonnaise  |2 gallons |
