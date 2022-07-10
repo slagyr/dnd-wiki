@@ -21,3 +21,4 @@
  * After walking onto island, skeletons!
  * More skeletons
  * short rest
+ * Heading north toward greener area
