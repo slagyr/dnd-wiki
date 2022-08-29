@@ -1,4 +1,7 @@
 ---
 LastModifyingUser: monty
 ---
- * asdfasdf
+
+Half-elf warlock.
+
+AKA RayZa
