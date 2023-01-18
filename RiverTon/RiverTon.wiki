@@ -2,15 +2,17 @@
 LastModifyingUser: monty
 ---
 RiverTon - Capitol city of RiverTania in the center of RiverTania kingdom
-
-!2 People
- * KingEdward - KingOfRiverton.  
- * PrinceEdwin - Son of KingEdward
- * BashaBashå - wizened wizard
-
-!2 Shops
- * CrimsonCantrip - Magic shop
- * DrowsyTortoise - The Inn 
- * SmithyNowar - Black smith
-
+KingEdward - KingOfRiverton.  
+PrinceEdwin - Son of KingEdward
+WyatT
+Wayne - Son of Willy - pirate. Was with Wyatt at the Kobold den where the egg was recovered.  He and Wyatt split up.  Wayne went to report the theft to Troth.
+Dragon Egg - Jeliva’s egg.  Held safely in the King Edwards vault
+Crimson Cantrip - Magical item store
+Phaedrus - woodland elf - middle-aged - brown hair - brown eyes - red robe - soft voice, thoughts constantly drawn toward philosophy of quality and beauty.
+Drowsy Tortoise - The Inn where Howard, Owen, and Hayon are staying
+Wendy - barkeep, cute red hair pigtails.   
+Wallace - owner, Wendy’s father, stout, gruff. 
+Smithy Nowar - Black smith
+	Nowar - Dwarf - blond blue eyed - super excitable and enthusiastic
+Basha Basha - Human wizard - elderly - messy appearance - white crazy hair - high wizened voice - book worm - always distracted by studies - known for sloppy magic use.  His Flesh golem got loose and caused a ruckus in Riverton. 16k gp reward. He told it “I’ve wanted my time with you… You’re just water under the bridge.”
 Constable Mardred - Head of Law Enforcement in Riverton - Female Dwarf - Sassy, Intimidating voice, French accent.

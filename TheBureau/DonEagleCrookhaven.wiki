@@ -1,12 +1,9 @@
----
-LastModifyingUser: monty
----
 !img-r /files/img/doneagle2.jpeg
 Race: Human
 Class: Druid
 Height: 5'10"
 Weight: 175 lbs
 Hair: Brown
-Age: 22 years
+Age: 23 years
 
 AKA: DonnY, DonEagle

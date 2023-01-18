@@ -1,3 +1,6 @@
+---
+LastModifyingUser: monty
+---
 !img-r /files/bureau.png
 UnderDarkNpcs
 
@@ -12,6 +15,12 @@ Party
 
 Recaps:
 
+ * Session2023Jan15
+ * Session2023Jan01
+ * Session2022Nov20
+ * Session2022Nov6
+ * Session2022Oct16
+ * Session2022Sep11
  * Session2022Aug28
  * Session2022Aug21
  * Session2022Jul10
@@ -53,8 +62,9 @@ Cities:
 
 Objectives:
 
+ * Arn wants to connect 9 hells with material plane with maze engine. Go to Zogthan's tower in hell and get shard of amulet.  Combine with other shard to summon a terrasque and distract Arn. One of them is worn by Zogthan.
  * Gather spell components for VizeranDevir and meet him at his tower.  Summon all demon lords to VekinvelveCity.  See Session2021Jan24 for spell components.
-   * See Session2021Jan24
+   * See Session2021Jan24
  * Prevent ArN from destroying the plane.
  * Find out why DemonLords are appearing and causing havoc in the underdark.  Prevent them from destroying the world.
    * Go to GravenHollow to find out more about this.
