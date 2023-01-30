@@ -2,5 +2,4 @@
  * When some guards exit with the big warrior guy, we sneak in
  * Following the treasure map, we run into some undead.  Battle ensues.
  * After killing the undead we run deeper into abbey, the other inhabitants hear the noise and follow us... but PiloT13 blocks the door.
- * We find the treasure, but it's fake.  Crystal minotaour.  
- * Then we find real treasure... Living Iron Statue
+ 

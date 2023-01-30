@@ -1,6 +1,3 @@
----
-LastModifyingUser: monty
----
 !img-r /files/bureau.png
 UnderDarkNpcs
 
@@ -15,6 +12,7 @@ Party
 
 Recaps:
 
+ * Session2023Jan29
  * Session2023Jan15
  * Session2023Jan01
  * Session2022Nov20
@@ -62,7 +60,7 @@ Cities:
 
 Objectives:
 
- * Arn wants to connect 9 hells with material plane with maze engine. Go to Zogthan's tower in hell and get shard of amulet.  Combine with other shard to summon a terrasque and distract Arn. One of them is worn by Zogthan.
+ * Arn wants to connect 9 hells with material plane with maze engine. Go to Xogthan's tower in hell and get shard of amulet.  Combine with other shard to summon a terrasque and distract Arn. One of them is worn by XogthaN, other is on statue in Xogthan's tower?
  * Gather spell components for VizeranDevir and meet him at his tower.  Summon all demon lords to VekinvelveCity.  See Session2021Jan24 for spell components.
    * See Session2021Jan24
  * Prevent ArN from destroying the plane.
@@ -78,7 +76,7 @@ Notable Organizations:
  * OrderOfTheGauntlet
  * SocietyOfBrilliance
  * VaruntoTheBeholder
- * ZogthaN - Everlon King… devil that wants to tear Sklaar apart.  Why?
+ * XogthaN
 
 People of Interest
 
