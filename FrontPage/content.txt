@@ -2,15 +2,15 @@
 | !1 [[The Bureau][.TheBureau.TheBureauHome]] | !-
 -!!img /files/bureau.png |
 
-| !1 [[Dragon Heist][.DragonHeist.DragonHeistHome]] | !-
--!!img /files/dragonheist.jpg |
+| !1 [[Curse of Strahd][.CurseOfStrahd.CurseOfStrahdHome]] | !img https://s3.amazonaws.com/files.d20.io/images/34772938/Fn-flefpAynPuqHLqTfImQ/max.png?1497901588544| 
 
 | !1 [[The Vast][.TheVast.TheVastHome]] | !-
 -!!img https://s3.amazonaws.com/files.d20.io/images/183564851/VGStAjIiiqqxpofGAIZJpg/max.jpg?1607301892955 |
 
-| !1 [[Rag Tag][RagTag]] | !img https://cdn170.picsart.com/222745886030202.png?type=webp&to=crop&r=256|
+| !1 [[Rag Tag][RagTag]] | !img https://cdn170.picsart.com/222745886030202.png?type=webp&to=crop&r=256| 
 
-To add your first "page", click the [[Edit][.FrontPage?edit]] button and add a [[!-WikiWord-!][.FitNesse.UserGuide.FitNesseWiki.WikiWord]] to the page.
+| !1 [[Dragon Heist][.DragonHeist.DragonHeistHome]] | !-
+-!!img /files/dragonheist.jpg |
 
 | '''To Learn More...''' |
 | [[User Guide][.FitNesse.UserGuide]] | ''Answer the rest of your questions here.'' |

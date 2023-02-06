@@ -1,0 +1,5 @@
+Root page for The Curse Of Strahd.
+
+!include .CurseOfStrahd.CurseOfStrahdHome
+
+!contents -R2 -g -p -f -h
