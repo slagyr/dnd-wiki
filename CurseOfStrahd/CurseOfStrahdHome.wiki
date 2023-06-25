@@ -1,7 +1,5 @@
 !img-r -w 500 https://s3.amazonaws.com/files.d20.io/images/34772938/Fn-flefpAynPuqHLqTfImQ/max.png?1497901588544
-
 !2 Party
-
  * BeghtDhulie
  * CorvuS
  * DibbY
@@ -10,7 +8,26 @@
  * NieveHarker
 
 !2 Recaps
-
+ * Session2023Jun18
+ * Session2023Jun04
+ * Session2023May7
+ * Session2023Apr30
+ * Session2023Mar19
  * Session2023Feb5
 
 !2 Objectives
+ * Find Gertruda, daughter of Mary, crying woman in BaroviaTown.
+ * Escort Ireena, late mayor's daughter, to Velaki for safety. We have already been payed for this.
+ * Retrieve pouch for shopkeeper in BaroviaTown.  Do not open it.  Get a 50% discount in his shop.
+
+!2 Places
+ * BarterTown - Town near DaggerFord and the MistyForest
+ * MistyForest - Where party first spent the night and awoke in the land of BaroviA
+ * DurstManor - Home of Dursts east of Barovia
+ * BaroviaTown - First town we encountered in the land of Barovia.
+ * VelakI - Larger town Northwest of BaroviaTown
+ 
+!2 People
+ * DurstFamily
+ * VistanI - Itinerant people.  Tinkers, maybe locksmiths. Have a camp west of Barovia.
+ 

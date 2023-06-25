@@ -1,0 +1,45 @@
+---
+LastModifyingUser: monty
+---
+!contents -R2 -g -p -f -h
+!4 !5 !5 
+
+ *  * The '''party '''-referred to going forward as the '''Menagerie of Mayhem - '''met whilst traveling south from Neverwinter, after the dramatic events of the recent Highsun Games.
+ * They heard that a bit off the beaten path, lodging could be found at the modest settlement of '''Phandalin'''. 
+ * '''Baerthen's Provisions''' proved able to supply supplies, albeit with a high pressure salesman.
+
+   * Steeds generally not available - a recent Orc raid depleted the town stables.
+   *  Bertha the old but strong donkey is acquired.
+ * The priestess '''Faelie '''had been left alone at the Shrine of Luck, and aspires to be a great healer someday. 
+
+   * In the meantime, she told of handsy troubles from former Stonehill Inn manager '''Tarfen'''. 
+   * Mayhem confronted Tarfen at his ramshackle home, beating the drunken piss out of him.
+ * '''Stonehill Inn''' was not visited. Mayhem will not be pigeon-holed into the tavern trope.
+ * Quests are posted on a '''Job Board at the Townmaster's Hall'''. You do the things, you get the GPs.
+
+   * '''Dwarven Excavation''' - Dwarven archaeologists need warned to get out of there, given recent alleged dragon sightings. 50 gp.
+   * '''Umbrage Hill''' - the midwife/herbalist Adabra, lives outside town, and needs warned to get out of there, given recent dragon sightings. 25 gp.
+   * '''Gnomengarde''' - visit the gnomes and search for any valuable magical items. 50 gp. Mayhem says: Challenge Accepted.
+ * On the way to Gnomengarde, they encounter a nasty storm, and '''3 orcs worshipping the''' '''storm god Talos'''. 
+   * Mayhem, the creators of chaos that they are, decide it's sleepy time for thug 1 and thug 2, and drive the head priest into the forest. 
+   * He is convinced that Puck has the True Talos Touch, and they should stop their ceremony and head into Phandalin instead. 
+   * They seem to have had prior contact? with the Town Master - '''Harbin Wester'''.
+ * Hi Ho the '''Gnomengarde'''.
+   * Puck befriended a little gnome girl, and bought a Wand of Pyrotechnics for 1gp.
+   * King Korboz was found to have gone mad - locked himself and kidnapped Queen Gnerkli inside their bedroom.
+   * Was paranoid some kind of "shapeshifter" was out to get them.
+   * Head Inventors Fibblestib & Dabbledob wanted to use a "sanity ray" or "straight-jacket" to cure Korboz's paranoia.
+   * Treasure Room was broken into, but only thing appearing of value was a mushroom coffee press & pour device.
+   * Secret door to royal bedroom discovered and opened. King subdued, Queen freed.
+   * Kitchen gnomes singing "Hi Ho the Gnomengarde, and the Shrooms Down in the Misty Bay". Mayhem's singing voices apparently restrained.
+   * Crab Mechs discovered; one being hauled back.
+   * Quad-Auto-Loading-Crossbow turret discovered. 
+     * Mad inventor Facktore subdued with sleep.
+   * Purple Shroom Wine Storage Room
+     * 1 of 12 barrels found to be a Mimic - the "shapeshifter" the king had seen, and had killed two missing gnomes (Warryn & Morryn).
+     * Last barrel sampled by Puck - restores 1 spell slot per quaff. Two quaffs yield inebriation lasting 1 hour (1/2 speed movement, disadvantage on attacks). 4 servings taken in wineskin.
+   * '''Magic Items obtained''':
+     * Hat of Wizadry (king's chest)
+     * Wand of Pyrotechnics (king's chest, 2nd one)
+     * Pole of Collapsing - gifted by Fibblestib
+     * Clockwork Amulet - gifted by Dabbledob

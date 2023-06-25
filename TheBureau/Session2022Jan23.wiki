@@ -6,10 +6,6 @@
  * We randomaly have some effect on the battle progress
  * The fungii friends apprear
  * friends from Gracklestug show up
- * Society of Brilliance appear
- * stone giants and themberchaud appear
- * voice asks Toab to puch the ground... drow corpses show to move, swarms of skellies appear under Toab's control
- * most epic battle, even more epic that last battle.
- * 17k xp each
- * wand uses 2 fewer charges during this battle
- * Everyone except Toab was granted the equivalent of a long rest, and can level up if eligible.
+ * stone giants and temberchaud appear
+ 
+ 
