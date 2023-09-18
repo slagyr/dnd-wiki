@@ -1,7 +1,3 @@
----
-LastModifyingUser: monty
----
-!img-r /files/strahd/Beght.png
 
 Bugbear Ranger
 Player: Micah

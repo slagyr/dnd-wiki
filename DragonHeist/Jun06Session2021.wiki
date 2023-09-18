@@ -1,4 +1,2 @@
  * glyoh with quiddich match field
- * Challis worth 150 , 7 figurines worth 30 each
- * Found EagleWhistle
- 
+ *

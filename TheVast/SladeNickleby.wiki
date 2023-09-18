@@ -1,5 +1,3 @@
-!img-r files/img/slade2.jpg 
-
 Race: Human
 Height: 5'10"
 Weight: 150 lbs

@@ -1,7 +1,7 @@
 ---
 LastModifyingUser: monty
 ---
-!img-r /files/vekenvelve.png
+!img-r /files/img/vekenvelve.png
 
 Drow city
 Jarlaxle - leader of Vekinvelve - High powered wizard - members of powerful council protecting underdark

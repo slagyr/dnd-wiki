@@ -1,6 +1,3 @@
----
-LastModifyingUser: monty
----
 Borrowed from GrindaGarloth
 
 10 Levers:
@@ -8,7 +5,7 @@ Borrowed from GrindaGarloth
  2 fron shutters open
  3 side shutter open
  4 claws extent from front side
- 5 claws make melee attack (2d6 bludgeon each)
+ 5 claws make melee attack
  6 walk/swim forward 30'
  7 left-forward / right-backwards
  8 lights
@@ -19,5 +16,3 @@ Borrowed from GrindaGarloth
 200hp
  
 40 - 100 gp / day typical treasure gain
-
-ObliteroS nearly got the best of us in that apparatus, but we bested him in the end.  So much bloody water.

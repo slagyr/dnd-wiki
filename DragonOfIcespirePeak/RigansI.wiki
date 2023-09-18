@@ -1,8 +1,6 @@
 ---
 LastModifyingUser: monty
 ---
-!img-r -w 300 https://64.media.tumblr.com/355ef03fe6ace927966c112c7e32a839/tumblr_pc2b8lR0AP1riuqaho1_500.jpg
-
  * Player: Chris
  * Character Name: Rigansi
  * Class: Ranger

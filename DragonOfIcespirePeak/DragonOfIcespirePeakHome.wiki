@@ -1,7 +1,7 @@
 !img-r -w 500 /files/dragon-icespire-peak/dragon-icespire-peak.jpg
 !2 Party
  * PucK
- * CoinnaN
+ * CoiniN
  * ZharkaiN
  * RigansI
 

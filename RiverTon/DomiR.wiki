@@ -2,3 +2,5 @@
 LastModifyingUser: monty
 ---
 !img-r /files/riverton/domir.png
+
+Dwarf cleric.  Trainer for the RivertonEliteGuard

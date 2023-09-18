@@ -1,4 +1,4 @@
-Check out this [[Interactive Map of Waterdeep Wards][https://www.aidedd.org/atlas/index.php?map=W&l=1]].
+Interactive Map of Waterdeep Wards: https://www.aidedd.org/atlas/index.php?map=W&l=1
 
  * CastleWard
  * SeaWard - temples, wealthy people

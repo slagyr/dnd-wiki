@@ -1,7 +1,2 @@
----
-LastModifyingUser: monty
----
-
+!contents -R2 -g -p -f -h
 Half-elf warlock.
-
-AKA RayZa

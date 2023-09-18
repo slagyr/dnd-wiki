@@ -5,4 +5,3 @@
 * We ingnore arch with weapon-melting-monster-carving
 * Back to hallway with balistas... room with copper spigots - green slime, dwarvish closet
 * Room with brewing vats - zombie beholder
-* Good dwarven brew, 1200 years old, we stash 13 barrels in the bag.

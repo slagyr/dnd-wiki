@@ -1,10 +1,5 @@
----
-LastModifyingUser: monty
----
  * Still in the dungeon under YawningPortal
  * Found the copper mask.  QuisS put it on and touched the statue.  He disappeared, teleported to another room with portrait of HalasteR
  * Talked to goop that answered some questions.
  * IntellectDevourers allied with DoppelGangers
- * Later found a GrelL
- * Killed a ton of vampirey type bandits in a room with three statues
- * Found a note "Keep the shipment of fizz coming. the Kids are eating it up.  Lab on other side of mirror.  There's two big temples... just go to smaller one.. the other filled with mosters ans treasure.  Take ointment I sent... it's useful, there's lots of nasty deseases here."
+ * Transported to ZiggaraT

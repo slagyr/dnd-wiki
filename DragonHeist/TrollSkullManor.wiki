@@ -1,9 +1,17 @@
-Northward (middle-class area, market)
+A rundown bar/hotel that was gifted to our party by VolothampGeddarm.  We invested heavily to fix it up, hired some staff, and are turning the place into a successful place of business.
+
+Location: Northward (middle-class area, market)
+
+
+!3 Staff
 LiF - Ghost that haunts Keep/Manor
 SnarF - Kobald Hired! - 5sp/10-day - cleaning - likes candles
 FerN - Elf/Orc woman, beautiful - 3gp/10-day Bartender, Waitress, simple cook (Alianna)
 RuM - Dwarf - Head Chef 5gp/10-day- Cooked for a dwarven army, expert on meat and      potatoes	
-GertrudE - Dwarf - Waitress and Bartender - 3gp/10-day worked at the Stuff and Snort in the dock wards before it closed, experienced.  
-HelgA (sister) holds meeting at tavern
+GertrudE - Dwarf - Waitress and Bartender - 3gp/10-day worked at the Stuff and Snort in the dock wards before it closed, experienced.  HelgA (sister) holds meeting at tavern
 DanniS - Human - Strictly a bartender (might wait tables occasionally) 5gp/10-day - seems skilled at it.
-TrollSkullHalfskull - our signature drink
+
+!3 Signature Food/Drinks
+TrollSkullHalfSkull
+Potatoes
+PickleTots

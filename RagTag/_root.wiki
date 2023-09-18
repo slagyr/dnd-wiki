@@ -1,6 +1,10 @@
----
-LastModifyingUser: monty
----
-!include RagTag.RagTagHome
+!3 Party
+ * BoBo
+ * BarlitonCanks
+ * ReyzaRevali
+ * WildeR
+ * CaerbannoG
 
-!contents
+!3 Recaps
+ * Session2021Oct17
+ * Session2021Dec19

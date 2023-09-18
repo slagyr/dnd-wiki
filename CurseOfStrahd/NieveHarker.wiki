@@ -1,4 +1,6 @@
+---
+LastModifyingUser: monty
+---
 !img-r -w 300 /files/strahd/Nieve.jpg
 
-Human Life Domain cleric. 
-Player: Chris
+Human Life Domain cleric.
