@@ -1,30 +1,53 @@
 !contents -R2 -g -p -f -h
 '''Gnomengarde'''
 
-- Mayhem rested up from prior quest, and headed back towards Phandalin
+ * Mayhem rested up from prior quest, and headed back towards Phandalin
 
-- Escorted two gnomes, two ox, and a wagon loaded with barrels of wine and a Crab mech.
+ * Escorted two gnomes, two ox, and a wagon loaded with barrels of wine and a Crab mech.
 
 '''Umbrage Hill'''
 
-- Party decided to check out this quest on the way back home. 
+ * Party decided to check out this quest on the way back home.
 
-- Upon arriving, the windmill had been heavily wrecked by a recent wind storm. 
+ * Upon arriving, the windmill had been heavily wrecked by a recent wind storm.
+   * Timing of storm coincided with the Storm-god-Talos-worshipping orc encounter en route to Gnomengarde quest.
 
-   - Timing of storm coincided with the Storm-god-Talos-worshipping orc encounter en route to Gnomengarde quest.
+ * A MantiCore named Helicoptera had latched onto the windmill's tower structure, clawing at a woman —AdabraGwynn— inside.
 
-- A MantiCore named Helicoptera had latched onto the windmill's tower structure, clawing at a woman —Adabra Gwynn— inside. 
+ * A "competing" group of adventurers was already present: The HalflingHeroes.
+   * Leader QuinnHighTopple and his little brother ParkerHighTopple were hiding under a bush.
+   * New recruit BristleBait's makeshift armor was stuck to the manticore's spiked tail and was being thrashed about.
 
-- A "competing" group of adventurers was already present: The Halfling Heroes. 
+ * Mayhem saw the Manticore was mostly just very hungry.
+   * Conversation revealed a WhiteDragon had stolen his kills twice in a tenday.
 
-   - Leader Quinn HighTopple and his little brother Parker were hiding under a bush. 
+ * Mealy rations did not satiate, so RiGansi, aided by PucK, hunted two deer.
+ * Helico devoured most of one deer, while ZharKain and PucK magically roasted the other, so Helico would have a gift for his wife VirYez and kits.
+ * * AdabraGwynn persuaded to return to Phandalin
+   * Promise of a new home to replace old one (presumably Mayhem would kick Tarfen out)
+   * Packed up home on cart pulled by Binny + extra spot on Gnomen ox carts.
 
-   - New recruit BristleBait's makeshift armor was stuck to the manticore's spiked tail and was being thrashed about. 
+'''PHANDALIN'''
 
-- Mayhem saw the Manticore was mostly just very hungry. 
-
-   - Conversation revealed a WhiteDragon had stolen his kills twice in a tenday.
-
-   - Mealy rations did not satiate, so RiGansi, aided by PucK, hunted two deer.
-
-   - Helico devoured most of one deer, while ZharKain and PucK magically roasted the other, so Helico would have a gift for his wife VirYez and kits. 
+ * Arrived to a funeral for FaeliE & TarfeN, but it was actually only Tarfen who had died.
+   * This is discovered when Faelie comes hobbling down to pay her respects, supported by RubyHammerWhacker.
+   * She relates the story of what happened: she was out picking Athelas, and was assaulted by Orcs (the ones Mayhem sent to town).
+     * She was wounded, then Tarfen arrived, out looking for moonshine ingredients.
+     * Mayhem had previously visited Tarfen at his house, roughing him up and vowing they'd kill him if he ever laid a hand on Faelie again.
+     * So Tarfen ran to Faelie's aid, saying "I ain't about to be blamed for Faelie!"
+     * He killed one orc, which distracted long enough for Faelie to slash one in the leg.
+     * Ruby arrived, and with Deb's help finished them off, and took Faelie home.
+     * A big chunk of Faelie's bloody dress was left next to Tarfen and the orcs, causing some of the confusion.
+ * A Townhall Meeting was called by the Townmaster's Assistant —OrsenTollerFord— to discuss how to handle the people's concerns regarding recent events. E.g. the violent wind storm, orc raids, a huge influx of travellers & adventurers, manticore & dragon sightings. People were asked to "vote" by putting up money for the different nominated solutions:
+   * Re-inforce houses with stonework in case of more whirlwinds
+   * Raise up a militia in case of more orc attacks.
+   * Raise up a watchtower with bowmen and ballista for dragon
+   * Continue focus on economic growth --> more $$, can do more of above, draw in more hands--
+   * Build a hot air balloon that spews money, like Neverwinter's
+   * Raise lynch mob to kill Harengon; they prob. caused all this somehow and poisoned our wells.
+   * WINNER: Raising a town Militia got the most votes (coin).
+     * The town armorer (LineneGraywind) excited for the contract, extra income.
+ * Party turned in their completed JobBoard quests to Orsen, and received 50gp and 25gp respectively. In order to get paid for Gnomengarde, Orsen suggested that the Townmaster would find the Hat of Wizardry the most useful magic item retrieved, so that had to be given up.
+ * Tadhg, a bardbarbian from Waterdeep, was performing in the StoneHill Inn, describing exploits of a grand "Dragonheist".
+   * Was selling a franchise opportunity to open the "TrollSkull North" tavern, complete with the recipe signature goat-urine infused ale.
+   * The crab-mech was given to Tadhg to help secure this opportunity

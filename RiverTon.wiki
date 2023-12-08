@@ -1,5 +1,8 @@
 ---
 LastModifyingUser: monty
+Static
+secure-test
+secure-write
 ---
 '''Don't edit this page directly.  Click the Edit button below for the RivertonHome page.'''
 

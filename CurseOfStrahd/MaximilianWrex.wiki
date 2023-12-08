@@ -1,2 +1,6 @@
-
+---
+LastModifyingUser: monty
+---
 Player: Mike
+Race: Giff (Hippo humanoid)
+Class: Psi Warrior

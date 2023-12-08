@@ -1,19 +1,23 @@
- * Radu drinking at table in bar (slimey guy)
- * We talk to Ismark, the mayor's son, the new mayor.  He seems to want us to take his sister, Irina, to Velaky.
- * MistTouched vs SunTouched?
+ * Radu drinking at table in bar (slimey guy). Wr paid his bar tab for him tol guide us to the Vistani camp, on thr way to Velaki.
+ * We talk to Ismark, the mayor's son, the new mayor.  He seems to want us to take his sister, Irina, to Velaki.
+ * People tend to be MistTouched (depressed and resigned to the way things are in Barovia) or SunTouched (more cheerful, but more bothered by life in Barovia).
  * We agree, funeral now, take Irina after.
- * Zombies destract us on the way to church but we make it. 
+ * Zombies destract us on the way to church but we make it.
+ * Priest's son has turned into an undead (werewolf?) and is locked and screaming in basement.
  * Church is old.  Door covered with claw marks and burns.
- * Cresk, alternate destination if we can't get to Velaky, says Priest.
+ * Priest says take Ireena to church of St Andril in Velaki, or the abbey of St Merkovia in Cresk, beyond Velaki.
  * We find a box of holding (100 lbs 12 cubic feet):
- 	* arrows
-    * crossbow bolts
-    * rations
-    * water skins
-    * torches
- * Bone aspergillum - attracts zombies
- * The shrunken, shriveled head of a halfling
- 	* eyes move around living stuff.  As a bonus action once per day, the owner of the head can command it to sing songs about heroes of old. This causes all allies within an earshot to gain advantage on saving throws against being frightened. There is a 10% cumulative chance per use of this weird insight that the head crumbles to dust. 
- * An 8-inch-diameter varnished orb made from a nothic’s eye : As an action target one creature within 15-feet. The target must contest its Charisma (Deception) check against your Wisdom (Insight) check. If you win, the eye allows you to magically learn one fact or secret about the target. The target automatically wins if it is immune to being charmed. There is a 10% cumulative chance per use of this weird insight that the orb crumbles to dust.
- * coffer w/wolf tongue 
- 	* This tongue tapers to a thin tip which is curved into a ladle-like form. When picked up a lapping sound can be heard and the tongue will pull the wielder toward anyone who is wounded. If permitted, the tongue will magically lick away wounds involving blood (DM adjudication required). This ability may be used once per day to heal 5d4 + 4 damage. The amount rolled may be split among multiple targets. There is a 10% cumulative chance per use of this healing that the tongue crumbles to dust.
+   * arrows
+   * crossbow bolts
+   * rations
+   * water skins
+   * torches
+ * Long rest, magic items identified:
+   * '''Bone aspergillum''' - attracts zombies
+   * '''The shrunken, shriveled head of a halfling''': eyes move around living stuff.  As a bonus action once per day, the owner of the head can command it to sing songs about heroes of old. This causes all allies within an earshot to gain advantage on saving throws against being frightened. There is a 10% cumulative chance per use of this weird insight that the head crumbles to dust.
+   * '''An 8-inch-diameter varnished orb made from a nothic’s eye''' : As an action target one creature within 15-feet. The target must contest its Charisma (Deception) check against your Wisdom (Insight) check. If you win, the eye allows you to magically learn one fact or secret about the target. The target automatically wins if it is immune to being charmed. There is a 10% cumulative chance per use of this weird insight that the orb crumbles to dust.
+   * '''coffer w/wolf tongue''': This tongue tapers to a thin tip which is curved into a ladle-like form. When picked up a lapping sound can be heard and the tongue will pull the wielder toward anyone who is wounded. If permitted, the tongue will magically lick away wounds involving blood (DM adjudication required). This ability may be used once per day to heal 5d4 + 4 damage. The amount rolled may be split among multiple targets. There is a 10% cumulative chance per use of this healing that the tongue crumbles to dust.
+   * '''A dagger with a rat’s skull set into the pommel''' : magical weapon
+   * ''' Bag of bat guano''': This calcified excrement is magically imbued to explode in a cloud of yellow, nauseating gas when thrown. The bag contains 1d4 congealed balls of bat guano which work as the 3rd level conjuration, Stinking Cloud when striking an object.
+   * '''A knife carved from a human bone''' : Crafted from the thigh bone of a murderous Barovian, this vile tool now works as a compass. As an action, lay the knife on a flat surface and it will point to any undead within 30 feet of you. If there is multiple undead in different locations the knife will simply spin. There is a 10% cumulative chance per use of this detection that the bone crumbles to dust.
+   * '''A folded cloak made from stitched ghoul skin : '''This unholy garment is cold to touch and causes revulsion in those that see it. The wearer of this cloak gains advantage on saving throws against the paralyzing claws of a ghoul. In addition ghouls will regard the wearer with indifference but they must be extremely cautious.

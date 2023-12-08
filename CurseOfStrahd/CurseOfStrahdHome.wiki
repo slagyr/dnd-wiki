@@ -1,3 +1,6 @@
+---
+LastModifyingUser: monty
+---
 !img-r -w 500 https://s3.amazonaws.com/files.d20.io/images/34772938/Fn-flefpAynPuqHLqTfImQ/max.png?1497901588544
 !2 Party
  * BeghtDhulie
@@ -8,6 +11,11 @@
  * NieveHarker
 
 !2 Recaps
+ * Session2023Nov26
+ * Session2023Nov12
+ * Session2023Oct29
+ * Session2023Oct15
+ * Session2023Jul19
  * Session2023Jun18
  * Session2023Jun04
  * Session2023May7
@@ -16,6 +24,7 @@
  * Session2023Feb5
 
 !2 Objectives
+ * Go to Argynvostholt and meet Godfried William(?). He will help us oppose Strahd. Revenant soldiers told us this.
  * Find Gertruda, daughter of Mary, crying woman in BaroviaTown.
  * Escort Ireena, late mayor's daughter, to Velaki for safety. We have already been payed for this.
  * Retrieve pouch for shopkeeper in BaroviaTown.  Do not open it.  Get a 50% discount in his shop.
@@ -26,8 +35,11 @@
  * DurstManor - Home of Dursts east of Barovia
  * BaroviaTown - First town we encountered in the land of Barovia.
  * VelakI - Larger town Northwest of BaroviaTown
- 
+
 !2 People
  * DurstFamily
- * VistanI - Itinerant people.  Tinkers, maybe locksmiths. Have a camp west of Barovia.
- 
+ * VistanI - Itinerant people.  Tinkers, maybe locksmiths. Have a camp west of Barovia. They sell us crossbow bolts at normal price.
+
+!2 Notes
+ * WerewolfManuscript
+ * MadamEvasTarotReadings

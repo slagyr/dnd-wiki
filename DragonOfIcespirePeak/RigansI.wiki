@@ -1,6 +1,7 @@
 ---
 LastModifyingUser: monty
 ---
+!img-r -w 400 /files/dragon-icespire-peak/Rigansi.png
  * Player: Chris
  * Character Name: Rigansi
  * Class: Ranger

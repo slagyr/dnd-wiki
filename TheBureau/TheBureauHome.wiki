@@ -1,3 +1,6 @@
+---
+LastModifyingUser: monty
+---
 !img-r /files/bureau.png
 UnderDarkNpcs
 
@@ -12,6 +15,7 @@ Party
 
 Recaps:
 
+ * Session2023Dec03
  * Session2023Sep17
  * Session2023Sep10
  * Session2023Sep3

@@ -2,12 +2,13 @@
 !2 Party
  * PucK
  * CoiniN
- * ZharkaiN
+ * FinthalioN
  * RigansI
 
 !2 Recaps
- * Session2023May20
+ * Session2023Sept23
  * Session2023Jun10
+ * Session2023May20
 
 !2 Places
  * PhandaliN
