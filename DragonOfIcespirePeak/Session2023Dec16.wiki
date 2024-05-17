@@ -1,0 +1,21 @@
+---
+LastModifyingUser: monty
+---
+!contents -R2 -g -p -f -h
+ * Eastern half of mine explored
+ * Foreman's office discovered
+   * Contained 82sp and 450cp under the floorboards in a locked chest
+   * Contained Goggles of the Night magic item in a locked chest
+ * NE Tunnel with rich silver veins explored. Two carrion crawlers dispatched. 
+   * Mine will have much better silver output now. 
+ * A secret room found. A faint engraved triangle symbol under a coin slot that was activated with a silver piece opened a secret cave door. 
+   * It revealed a small room with what Finthalion determined to be a permanent teleportation ring and strange glyphs on the floor. It was unclear how to activate it. 
+ * Two eastern rooms had 10 dwarves who were the former employees/miners.
+   * They had been run out by the Wererats, retreating east and then the doorways caved in by the Weres. 
+   * They had already lost a 1/2 dozen in battles with the Weres trying to retake the mine. 
+   * They complained of also having large debts to Halia Thornton and the Phandalin Miner's Exchange, owing about 10 gp each to the company store for replacement equipment. They collectively owed an additional 100 gp for a few weeks of lost silver output that was "their fault" when the Weres took over and they were unable to keep up production.
+   * Mayhem suggested the Weres and Dwarves could work together. The Weres were willing to negotiate, but the Dwarves were out for blood to avenge their fallen comrades. 
+     * Dwarves finally convinced through Puck's amazing persuasion. 
+ * The new mine foreman - Don Jon (DJ) Raskin has been installed and will try to keep an uneasy peace between the Weres and Dwarves. He will use the Weres for security against orc incursions or carrion crawler nests, and their natural resistance against damage (and digging out of cave-ins) when exploring new sections of the mine. 
+ * The party can return to Phandalin for 100gp reward. 
+ * As they were leaving, a strange fellow named Shanjan Kwan appeared, and delivered a letter from Finthalion's uncle, ElzardaneLinares. He would like to meet by the Oak of Bakuth (on a hill back towards Phandalin). 

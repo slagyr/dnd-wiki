@@ -11,6 +11,7 @@ LastModifyingUser: monty
  * NieveHarker
 
 !2 Recaps
+ * Session2023Dec10
  * Session2023Nov26
  * Session2023Nov12
  * Session2023Oct29
@@ -26,7 +27,7 @@ LastModifyingUser: monty
 !2 Objectives
  * Go to Argynvostholt and meet Godfried William(?). He will help us oppose Strahd. Revenant soldiers told us this.
  * Find Gertruda, daughter of Mary, crying woman in BaroviaTown.
- * Escort Ireena, late mayor's daughter, to Velaki for safety. We have already been payed for this.
+ * Escort Ireena, late mayor's daughter, to cathedral in Velaki for safety. We have already been payed for this.
  * Retrieve pouch for shopkeeper in BaroviaTown.  Do not open it.  Get a 50% discount in his shop.
 
 !2 Places

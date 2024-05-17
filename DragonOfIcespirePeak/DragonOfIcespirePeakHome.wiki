@@ -1,3 +1,6 @@
+---
+LastModifyingUser: monty
+---
 !img-r -w 500 /files/dragon-icespire-peak/dragon-icespire-peak.jpg
 !2 Party
  * PucK
@@ -6,6 +9,7 @@
  * RigansI
 
 !2 Recaps
+ * Session2023Dec16
  * Session2023Sept23
  * Session2023Jun10
  * Session2023May20
