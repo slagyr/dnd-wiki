@@ -1,0 +1,15 @@
+---
+LastModifyingUser: monty
+---
+ * We awake at the inn, go downstairs and talk to Danika.
+ * She says no one ever leaves Barovia. Hints that we need to kill Strahd to leave.
+ * She says there are dusk elves outside Velaki we can check out.
+ * She says there are sacred bones of someone in the cathedral which is what keeps Strahd at bay.
+ * Says there is a Lady Walker? Walter? we should talk to in town.
+ * Reminds us of job to investigate lost wine shipments from the Wizard of Wines to the west. There are forest people beyond the winery. They sound like druids but are servants of Strahd. She (and her husband?) will pay us 150gp each to get the wine shipments back on track, and wine whenever we want.
+ * She says there is a toymaker named Gadolf Blinxy where Dibby can by a toy for the Vistani girl (side quest).
+ * We go to St Andra's ophanage to unload the children. Claudia opens the door and agrees to take them. She works with Milavoj, who also helps out at the cathedral.
+ * We look around, Dibby finds some runes carved into the bed posts, Corvus detects evil and feels a fiend above us. We go upstairs and one of the orphans, Felix, is carving a doll, creepily. He has a cursed locket containing a demon, who comes out and we fight. We eventually banish the demon back into the locket. Alistair takes the locket from Felix, and now it is attached to him.
+ * We find Milavoj, who is recovering from sickness and he says he sold the sacred bones from the cathedral to a coffin maker in town. We need to return these bones to the cathedral.
+ * We decide to go to the cathedral first and talk to the head priest about the bones and about Ireena whom we were paid to deliver safely, though it is probably no longer safe without the bones.
+ 

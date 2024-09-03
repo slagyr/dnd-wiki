@@ -1,14 +1,17 @@
+|TheBureau.Session2024Aug11|monty|21:50:19 Sun, Aug 11, 2024|
+|TheBureau.TheBureauHome|monty|19:10:27 Sun, Aug 11, 2024|
+|CurseOfStrahd.Session2024Jul28|monty|21:45:34 Mon, Jul 29, 2024|
+|CurseOfStrahd.CurseOfStrahdHome|monty|21:28:11 Mon, Jul 29, 2024|
+|CurseOfStrahd.Session2024Jun23|monty|21:25:02 Sun, Jun 23, 2024|
+|CurseOfStrahd.Session2023Dec10|monty|12:58:39 Sat, Jun 22, 2024|
 |TheBureau.Session2024Apr28|monty|21:19:35 Mon, Apr 29, 2024|
-|TheBureau.TheBureauHome|monty|21:09:27 Mon, Apr 29, 2024|
 |TheBureau.Session2024Apr14|monty|21:55:09 Tue, Apr 16, 2024|
 |TheBureau.Session2024Mar24|monty|19:35:16 Sun, Apr 14, 2024|
 |TheBureau.Session2024Jan28|monty|21:30:54 Tue, Jan 30, 2024|
-|CurseOfStrahd.Session2023Dec10|monty|16:01:38 Sun, Jan 14, 2024|
 |DragonOfIcespirePeak.Session2023Dec16|monty|13:24:40 Mon, Dec 18, 2023|
 |DragonOfIcespirePeak.DragonOfIcespirePeakHome|monty|11:47:48 Mon, Dec 18, 2023|
 |CurseOfStrahd.IrinA|monty|20:02:45 Sun, Dec 10, 2023|
 |CurseOfStrahd.RadU|monty|20:02:12 Sun, Dec 10, 2023|
-|CurseOfStrahd.CurseOfStrahdHome|monty|19:29:16 Sun, Dec 10, 2023|
 |TheBureau.Session2023Dec03|monty|20:19:19 Tue, Dec 05, 2023|
 |TheBureau.Session2023Sep17|monty|15:45:46 Sun, Dec 03, 2023|
 |CurseOfStrahd.Session2023Nov26|monty|22:21:40 Mon, Nov 27, 2023|
@@ -95,6 +98,3 @@
 |TheBureau.SklarBiceraton||07:38:38 Sun, Sep 17, 2023|
 |RiverTon.RiverTon|monty|07:38:37 Sun, Sep 17, 2023|
 |TheBureau.DonEagleCrookhaven|monty|07:38:36 Sun, Sep 17, 2023|
-|RiverTon.QueenOpal||07:38:35 Sun, Sep 17, 2023|
-|DragonHeist.AlchemyJug|monty|07:38:33 Sun, Sep 17, 2023|
-|DragonHeist.DenddritcH||07:38:29 Sun, Sep 17, 2023|
