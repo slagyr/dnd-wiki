@@ -11,6 +11,9 @@ LastModifyingUser: monty
  * NieveHarker
 
 !2 Recaps
+ * Session2024Oct6
+ * Session2024Sep29
+ * Session2024Sep22
  * Session2024Jul28
  * Session2024Jun23
  * Session2023Dec10
@@ -27,11 +30,16 @@ LastModifyingUser: monty
  * Session2023Feb5
 
 !2 Objectives
+ * Take orphans to St Andral's orphanage. [COMPLETE]
+ * Escort Ireena, late mayor's daughter, to St Andral's cathedral in Velaki for safety. We have already been payed for this. [COMPLETE]
+ * Dibby to buy toy for a girl in Velaki.
+ * Inn keepers in Velaki want us to resolve missing wine shipments.
+ * Find out what's up with the creature in the box in Velaki. Richtavio owns the cart with the box. He's at the inn?
+ * LadyWachter wants us to kill Izek. Offered us 1000 silver.
  * Go to Argynvostholt and meet Godfried William(?). He will help us oppose Strahd. Revenant soldiers told us this.
  * Find Gertruda, daughter of Mary, crying woman in BaroviaTown.
- * Escort Ireena, late mayor's daughter, to St Andral's cathedral in Velaki for safety. We have already been payed for this.
  * Retrieve pouch for shopkeeper in BaroviaTown.  Do not open it.  Get a 50% discount in his shop.
- * Take orphans to St Andral's orphanage.
+ * Leave Barovia. It seems people can only leave with Strahd's permission.
 
 !2 Places
  * BarterTown - Town near DaggerFord and the MistyForest

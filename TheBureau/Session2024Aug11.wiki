@@ -25,7 +25,8 @@ LastModifyingUser: monty
  * E - crossed swords
  * SE - brass plate - two hold missing knocker
  * S - arrow pointing down - locked
- * SW - small girl - locked
+ * SW - shape of small girl - locked
+  * We got a doll somewhere, so it might fit 
  * W - archway - locked - unlocked with key
   * Document on table in banquet room. Large ceiling to floor mirror, same room on other side.  Large potted plan in NE of mirror image.
   * We place potted plan in same position in mirror.  Doll appears.  We take it.
